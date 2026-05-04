@@ -4,7 +4,7 @@ env:
   variables:
     AWS_REGION: "ap-south-2"
     ECR_REPO:
-     "991524241826.dkr.ecr.ap-south-2.amazonaws.com/vishnu-course"
+     "991524241826.dkr.ecr.ap-south-2.amazonaws.com/anirudh-repo"
  
 phases:
   pre_build:
